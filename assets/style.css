@@ -11,11 +11,13 @@ textarea{
   color: #000000;
   border-left: 1px solid black;
   padding: 10px;
+  width: 100%;
+  height: 100%;
 }
 
 .jumbotron {
   text-align: center;
-  background-color: transparent;
+  background-color: transparent   ;
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
@@ -49,12 +51,12 @@ textarea{
 
 .present {
   background-color: #ff6961;
-  color: white;
+  color: black;
 }
 
 .future {
   background-color: #77dd77;
-  color: white;
+  color: black;
 }
 
 .saveBtn {
